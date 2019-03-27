@@ -26,3 +26,5 @@ include/
 .tags*
 *.pyc
 include/mavlink/v1.0
+
+mavlink_c/
